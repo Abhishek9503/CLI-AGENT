@@ -32,3 +32,5 @@ logs/
 .cache/
 dist/
 build/
+
+/src/generated/prisma
